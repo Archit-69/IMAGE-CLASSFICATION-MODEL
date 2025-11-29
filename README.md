@@ -1,4 +1,4 @@
-# CIFAR-10 CNN Classifier
+# CIFAR-10 CNN  Image Classifier
 
 This repository contains a simple Convolutional Neural Network (CNN) implemented in PyTorch
 to classify images from the CIFAR-10 dataset.
