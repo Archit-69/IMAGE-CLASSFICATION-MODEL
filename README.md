@@ -48,7 +48,17 @@ python train.py --epochs 5 --batch-size 128
 - Training progress printed to console.
 - Final test accuracy and confusion matrix printed.
 - Model checkpoint saved to `model_checkpoint.pth`.
-
+- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9e25ccda-e68e-486e-b4c6-ffb5451f3285" />
+------------------------------------------------------------------------------------------------------------------------------
 ## Notes
 - Using a GPU (CUDA) is recommended for faster training.
 - Feel free to modify the architecture, hyperparameters, or add training enhancements.
+------------------------------------------------------------------------------------------------------------
+* Company: CODTECH IT SOLUTIONS
+* Name: Archit kapre
+* Intern ID:CT04DR999
+* Domain: Machine learning 
+* Duration: 4 weeks
+* Mentor: Neela Santosh
+
+
